@@ -1,0 +1,13 @@
+sdk: ^2.0.0-alpha.35
+prefixes:
+  mqtt: mqtt
+  ntp: pkg-ntp
+packages:
+  mqtt:
+    url: github.com/toitware/mqtt
+    version: 2.1.1
+    hash: 49eab960bb1c27245bfc52e72f6f1ec840492abb
+  pkg-ntp:
+    url: github.com/toitlang/pkg-ntp
+    version: 1.0.0
+    hash: 1c3cc4a4819f459393f00efc576f66f838665719
