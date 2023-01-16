@@ -1,0 +1,13 @@
+{
+  "mqttHost": "mqtt.local.host",
+  "mqttPort": 1883,
+  "mqttClientId": "light_device",
+  "mqttUser": "mqtt-user",
+  "mqttPassword": "mqtt-password",
+  "mqttTopic":"mqtt/topic",
+  "ntpHost": "pool.ntp.org",
+  "dnsHosts": [ "8.8.8.8", "8.8.4.4" ],
+  "sensorMultiplier": 256,
+  "sensorOffset": -200,
+  "tickerResolution": 30
+}
